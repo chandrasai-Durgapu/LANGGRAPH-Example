@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_groq
+python-dotenv
+
+langgraph
+
+grandalf #is a graph layout library
+
+langsmith
+pydantic
