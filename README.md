@@ -152,13 +152,6 @@ Ensuring predictable downstream processing
 python 3_structured_outputs/country_types.py
 ```
 ---
-
-
-...run the reflexion agent of chains
-```bash
-python 4_reflexion_agent_system/chains.py
-```
----
 ## 🧠 Reflexion Agent
 
 The Reflexion Agent extends the Reflection Agent by introducing memory and longer-term learning.
@@ -178,6 +171,12 @@ What actions were taken
 How the output was rated
 
 What should be done differently next time
+
+...run the reflexion agent of chains
+```bash
+python 4_reflexion_agent_system/chains.py
+```
+
 ---
 ## 🔁 Reflexion Graph
 
